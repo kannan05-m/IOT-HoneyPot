@@ -1,73 +1,203 @@
-# Welcome to your Lovable project
+# Muse Helper Frontend
 
-## Project info
+A modern React + Vite frontend application built with TypeScript and Tailwind CSS. The project focuses on delivering a fast, responsive, and scalable user interface with clean component architecture and optimized frontend tooling.
 
-**URL**: https://lovable.dev/projects/b9c9c552-4fa3-41a9-9619-40076748058b
+---
 
-## How can I edit this code?
+## Live Demo
 
-There are several ways of editing your application.
+Add your deployed Vercel link here after deployment:
 
-**Use Lovable**
+```bash
+https://your-live-demo-link.vercel.app
+```
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b9c9c552-4fa3-41a9-9619-40076748058b) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## GitHub Repository
 
-**Use your preferred IDE**
+```bash
+https://github.com/kannan05-m/IOT-HoneyPot
+```
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+# Features
 
-Follow these steps:
+* Modern React + Vite architecture
+* TypeScript support
+* Tailwind CSS styling
+* Reusable component-based UI
+* Fast development and hot reload
+* Optimized production builds
+* ESLint configuration for cleaner code
+* Responsive frontend design
+* Scalable folder structure
+* GitHub integrated deployment workflow
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+| Technology   | Usage                     |
+| ------------ | ------------------------- |
+| React        | Frontend library          |
+| Vite         | Build tool and dev server |
+| TypeScript   | Type safety               |
+| Tailwind CSS | Styling                   |
+| ESLint       | Code linting              |
+| npm          | Package management        |
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+# Folder Structure
+
+```bash
+frontend-muse-helper-main/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── pages/
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── package.json
+├── vite.config.ts
+├── tailwind.config.ts
+├── tsconfig.json
+└── README.md
+```
+
+---
+
+# Installation and Setup
+
+## Clone Repository
+
+```bash
+git clone https://github.com/kannan05-m/IOT-HoneyPot.git
+```
+
+## Navigate Into Project
+
+```bash
+cd IOT-HoneyPot
+```
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+## Start Development Server
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Application will run locally on:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+http://localhost:5173
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# Build for Production
 
-## What technologies are used for this project?
+```bash
+npm run build
+```
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+# Preview Production Build
 
-## How can I deploy this project?
+```bash
+npm run preview
+```
 
-Simply open [Lovable](https://lovable.dev/projects/b9c9c552-4fa3-41a9-9619-40076748058b) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+# Deployment
 
-Yes, you can!
+The project can be deployed easily using:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+* Vercel
+* Netlify
+* GitHub Pages
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Recommended:
+
+* Vercel for automatic GitHub CI/CD deployment
+
+---
+
+# Development Workflow
+
+## Create Feature Branch
+
+```bash
+git checkout -b feature-name
+```
+
+## Commit Changes
+
+```bash
+git add .
+git commit -m "describe changes"
+```
+
+## Push Changes
+
+```bash
+git push origin feature-name
+```
+
+---
+
+# Performance Optimizations
+
+* Vite optimized bundling
+* Component-based architecture
+* Fast HMR (Hot Module Replacement)
+* TypeScript static analysis
+* Modular reusable UI structure
+
+---
+
+# Future Improvements
+
+* Authentication system
+* Backend API integration
+* Dark mode support
+* Dashboard analytics
+* State management integration
+* Unit and integration testing
+* Docker deployment support
+
+---
+
+# Resume Highlights
+
+* Built a modern frontend application using React, Vite, and TypeScript
+* Implemented reusable component-based architecture
+* Configured Tailwind CSS and ESLint for scalable frontend development
+* Integrated GitHub workflow and production deployment pipeline
+* Developed responsive UI optimized for performance and maintainability
+
+---
+
+# Author
+
+Kannan
+
+---
+
+# License
+
+This project is licensed under the MIT License.
+
