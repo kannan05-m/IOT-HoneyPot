@@ -1,0 +1,10 @@
+{"timestamp":"2025-10-14T02:01:11","source_ip":"201.189.11.194","attack_type":"SQL Injection","protocol":"HTTP:8080","severity":"LOW"}
+{"timestamp":"2025-10-14T02:01:07","source_ip":"201.198.15.120","attack_type":"SSH Brute Force","protocol":"HTTP:8080","severity":"LOW"}
+{"timestamp":"2025-10-14T02:01:01","source_ip":"78.7.52.153","attack_type":"XSS","protocol":"HTTPS:3306","severity":"MEDIUM"}
+{"timestamp":"2025-10-14T02:00:56","source_ip":"133.201.243.38","attack_type":"DDoS","protocol":"UDP:3306","severity":"MEDIUM"}
+{"timestamp":"2025-10-14T02:00:55","source_ip":"167.106.16.172","attack_type":"Port Scan","protocol":"TCP:443","severity":"CRITICAL"}
+{"timestamp":"2025-10-14T02:00:48","source_ip":"107.140.70.122","attack_type":"DDoS","protocol":"TCP:22","severity":"LOW"}
+{"timestamp":"2025-10-14T02:00:42","source_ip":"45.89.123.67","attack_type":"Malware Upload","protocol":"HTTP:8080","severity":"CRITICAL"}
+{"timestamp":"2025-10-14T02:00:38","source_ip":"192.168.45.89","attack_type":"Brute Force","protocol":"SSH:22","severity":"HIGH"}
+{"timestamp":"2025-10-14T02:00:31","source_ip":"88.77.66.55","attack_type":"SQL Injection","protocol":"HTTP:3000","severity":"MEDIUM"}
+{"timestamp":"2025-10-14T02:00:25","source_ip":"123.45.67.89","attack_type":"XSS","protocol":"HTTPS:443","severity":"LOW"}
