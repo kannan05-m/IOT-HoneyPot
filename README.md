@@ -1,4 +1,4 @@
-# Muse Helper Frontend
+# IOT-HoneyPot
 
 A modern React + Vite frontend application built with TypeScript and Tailwind CSS. The project focuses on delivering a fast, responsive, and scalable user interface with clean component architecture and optimized frontend tooling.
 
